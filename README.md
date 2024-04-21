@@ -7,6 +7,9 @@ Widgetなどは動かない
 - widget1.dart
 ![alt text](image.png)
 
-- wodget2.dart
+- widget2.dart
 ![alt text](image-1.png)
 
+
+- widget3.dart
+![alt text](image-2.png)
